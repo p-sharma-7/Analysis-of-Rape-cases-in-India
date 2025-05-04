@@ -124,6 +124,6 @@ This analysis visualizes and compares rape cases across Indian states, breaking 
 - Interactive dashboard development
 - Policy impact analysis of 2013 legal reforms
 
-*Note: Actual findings may vary based on latest data updates*
+*Note: Actual findings may vary based on latest data updates*<br>
 *Disclaimer: Contains sensitive content. Strictly for academic/research purposes.*
 
